@@ -1,0 +1,24 @@
+dbus-sharp (0.7.0-4) unstable; urgency=low
+
+  * Cherry-pick 608328b and 76f43e6c from upstream trunk.  Fixes broken signal
+    dispatch.
+
+ -- Christopher James Halse Rogers <raof@ubuntu.com>  Tue, 04 Oct 2011 15:38:43 +1100
+
+dbus-sharp (0.7.0-3) unstable; urgency=low
+
+  * Upload to Sid
+
+ -- Jo Shields <directhex@apebox.org>  Tue, 15 Feb 2011 19:06:25 +0000
+
+dbus-sharp (0.7.0-2) experimental; urgency=low
+
+  * [b9cc526] Fix substitution which FTBFSed with dash as sh
+
+ -- Iain Lane <laney@ubuntu.com>  Tue, 16 Nov 2010 23:20:27 +0000
+
+dbus-sharp (0.7.0-1) experimental; urgency=low
+
+  * Initial release. (Closes: #598943)
+
+ -- Mirco Bauer <meebey@debian.org>  Sun, 03 Oct 2010 15:19:44 +0200
